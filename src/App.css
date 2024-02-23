@@ -1,0 +1,19 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.event-details-container {
+  display: flex;
+  align-items: center;
+}
+
+.image-container {
+  width: 200px; /* Adjust width as needed */
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+}
+
+.text-container {
+  margin-left: 20px; /* Adjust margin as needed */
+}
